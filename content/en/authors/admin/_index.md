@@ -20,7 +20,7 @@ superuser: true
 role: Student
 
 # Organizations/Affiliations to show in About widget
-organizations: Peoples' Friendship University of Russia
+organizations: Peoples Friendship University of Russia
   - name: 
     url: https://www.rudn.ru/
 
