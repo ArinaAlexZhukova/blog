@@ -20,8 +20,8 @@ superuser: true
 role: Student
 
 # Organizations/Affiliations to show in About widget
-organizations: Peoples Friendship University of Russia
-  - name: 
+organizations: 
+  - name: Peoples Friendship University of Russia
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
@@ -43,8 +43,8 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: 
-    items: Programming languages
+  - name: Programming languages
+    items: 
       - name: Python
         description: ''
         percent: 20
