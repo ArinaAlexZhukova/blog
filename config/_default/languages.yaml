@@ -14,7 +14,8 @@ ru:
     main:
       - name: Обо мне
         url: '#about'
-        weight: Посты
+        weight: 
+      - name: Посты
         url: '#posts'
         weight: 20
       - name: Проекты
