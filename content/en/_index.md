@@ -39,12 +39,12 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Биография
+      title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
     content:
-      title: Навыки
+      title: Skills
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
@@ -52,7 +52,7 @@ sections:
       columns: '1'
   - block: experience
     content:
-      title: Опыт
+      title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -82,7 +82,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Достижения'
+      title: 'Accomplishments'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
